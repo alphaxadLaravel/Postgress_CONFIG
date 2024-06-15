@@ -15,6 +15,9 @@ DB_USERNAME=postgres
 DB_PASSWORD="taku*F#P8"
 ```
 ## Database Config File
+
+```
+
 <?php
 
 use Illuminate\Support\Str;
